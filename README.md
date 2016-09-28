@@ -20,7 +20,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > More info coming soon...
 >
-> ![alt Status](https://img.shields.io/badge/status-private-red.svg)
+> ![alt Status](https://img.shields.io/badge/status-private-red.svg "Private Project")
 > ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Spoofer / Phone Prankster
@@ -30,7 +30,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
 >
-> ![alt Status](https://img.shields.io/badge/status-private-red.svg)
+> ![alt Status](https://img.shields.io/badge/status-private-red.svg "Private Project")
 > ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Ubuntu Desktop Title Changer
@@ -38,5 +38,5 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
-> ![alt Status](https://img.shields.io/badge/status-public-brightgreen.svg)
+> ![alt Status](https://img.shields.io/badge/status-public-brightgreen.svg "Public Project")
 > ![alt Built-For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg)
