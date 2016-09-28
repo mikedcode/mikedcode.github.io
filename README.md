@@ -1,4 +1,4 @@
-# @mikedcode's GitHub Project(s) Website
+# @mikedcode's GitHub Website
 
 >This is where I will post all my public **GitHub** projects.
 >
