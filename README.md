@@ -11,7 +11,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 ## What Are Some Projects I've Worked On..
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
-> it was built to aid in making calls, spoofing caller id, controlling studio lights,
+> it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
 > More info coming soon...
