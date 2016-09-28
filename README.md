@@ -39,7 +39,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 > ![alt Built-For][built-macios]
 
 ### Ubuntu Desktop Title Changer
-> **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
+> **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
