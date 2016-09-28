@@ -14,18 +14,18 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
-> Build for **macOS / IOS**
->
 > More info coming soon...
+>
+> Build for **macOS / IOS**
 
 ### Spoofer / Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
 > is was also present in the making of **Studio 3** and they worked in tandem
 > to make prank calls for the show.
 >
-> Build for **macOS / IOS**
->
 > **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
+>
+> Build for **macOS / IOS**
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
