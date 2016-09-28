@@ -1,4 +1,4 @@
-# mikedcode on GitHub :)
+# mikedcode on GitHub :smiling_imp:
 
 [![Twitter](https://img.shields.io/badge/twitter-%40mikedcode-1da1f2.svg)](https://twitter.com/mikedcode)
 [![Instagram](https://img.shields.io/badge/instagram-%40mikedcode-c13584.svg)](https://www.instagram.com/mikedcode/)
@@ -10,3 +10,6 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 
 ## What Are Some Projects I've Worked On..
 ### Studio 3
+> Studio 3 was built for [Jared McMullin](http://www.jaredmcmullin.com/) of the YouTube show [Friday Night Cranks](https://www.youtube.com/user/FridayNightCranks)..
+> it was built to aid in making calls, spoofing caller id, controlling studio lights,
+> and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
