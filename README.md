@@ -14,7 +14,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
-> Build for **macOS**
+> Build for **macOS / IOS**
 >
 > More info coming soon...
 
@@ -31,3 +31,4 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
 >
 > **Project URL: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
+> Build for **Ubuntu**
