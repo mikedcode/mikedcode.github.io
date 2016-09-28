@@ -8,6 +8,8 @@
 # Who Am I?
 My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, watchOS), and occasionally Windows :stuck_out_tongue_winking_eye:
 
+**I currently run: Ubuntu Xenial, macOS Sierra, Windows 10**
+
 ## Projects I've Worked On..
 ###### Just a few of the projects I've worked on over the years..
 
