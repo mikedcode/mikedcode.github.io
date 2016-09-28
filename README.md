@@ -20,6 +20,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 >
 > More info coming soon...
 >
+> ![Status](https://img.shields.io/badge/status-inactive-blue.svg)
 > ![Built For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Spoofer / Phone Prankster
