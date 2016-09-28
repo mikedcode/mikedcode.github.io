@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/develop%20for-Linux%20%7C%20macOS%20%7C%20IOS%20%7C%20Windows-1976D2.svg)](http://mikedcode.com)
 
 # Who Am I?
-My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS (tvOS, watchOS), and occasionally Windows :stuck_out_tongue_winking_eye:
+My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
 
 **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
 
