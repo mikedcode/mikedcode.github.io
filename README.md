@@ -36,7 +36,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
 >
-> **Project URL: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
+> **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
 > ![Status](https://img.shields.io/badge/status-public-brightgreen.svg)
 > ![Built For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg)
