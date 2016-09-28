@@ -20,8 +20,8 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > More info coming soon...
 >
-> ![Status](https://img.shields.io/badge/status-private-red.svg)
-> ![Built For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
+> ![alt Status](https://img.shields.io/badge/status-private-red.svg)
+> ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Spoofer / Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
@@ -30,13 +30,13 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
 >
-> ![Status](https://img.shields.io/badge/status-private-red.svg)
-> ![Built For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
+> ![alt Status](https://img.shields.io/badge/status-private-red.svg)
+> ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
-> ![Status](https://img.shields.io/badge/status-public-brightgreen.svg)
-> ![Built For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg)
+> ![alt Status](https://img.shields.io/badge/status-public-brightgreen.svg)
+> ![alt Built-For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg)
