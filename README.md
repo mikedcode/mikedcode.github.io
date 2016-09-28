@@ -20,7 +20,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 >
 > More info coming soon...
 >
-> **Build for:** _macOS / IOS_
+> ![Built For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Spoofer / Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
@@ -29,7 +29,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 >
 > **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
 >
-> **Build for:** _macOS / IOS_
+> ![Built For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg)
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
