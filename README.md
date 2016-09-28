@@ -36,4 +36,4 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 >
 > **Project URL: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
-> **Build for:** _Ubuntu_
+> ![Built For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg)
