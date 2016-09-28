@@ -17,7 +17,8 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > More info coming soon...
 
 ### Spoofer / Phone Prankster
-> **"Spoofer / Phone Prankster"** was made for making prank phone calls :smiling_imp:..
-> is was also present in the making of **Studio 3** and they worked in tandem.
+> **Phone Prankster** was made for making prank phone calls :smiling_imp:..
+> is was also present in the making of **Studio 3** and they worked in tandem
+> to make prank calls.
 >
 > **Spoofer** is a private IOS App for making prank calls.. Its still in use today :laughing:..
