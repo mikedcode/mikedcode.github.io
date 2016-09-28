@@ -13,6 +13,11 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 ## Projects I've Worked On..
 ###### Just a few of the projects I've worked on over the years..
 
+[private-status]: https://img.shields.io/badge/status-private-red.svg "Private Project"
+[public-status]: https://img.shields.io/badge/status-public-brightgreen.svg "Public Project"
+[built-macios]: https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg "Built For: macOS | IOS"
+[built-ubuntu]: https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg "Built For: Ubuntu"
+
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
@@ -20,8 +25,8 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > More info coming soon...
 >
-> ![alt Status](https://img.shields.io/badge/status-private-red.svg "Private Project")
-> ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg "Built For: macOS / IOS")
+> ![alt Status][private-status]
+> ![alt Built-For][built-macios]
 
 ### Spoofer / Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
@@ -30,13 +35,13 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
 >
-> ![alt Status](https://img.shields.io/badge/status-private-red.svg "Private Project")
-> ![alt Built-For](https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg "Built For: macOS / IOS")
+> ![alt Status][private-status]
+> ![alt Built-For][built-macios]
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:.
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
 >
-> ![alt Status](https://img.shields.io/badge/status-public-brightgreen.svg "Public Project")
-> ![alt Built-For](https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg "Built For: Ubuntu")
+> ![alt Status][public-status]
+> ![alt Built-For][built-ubuntu]
