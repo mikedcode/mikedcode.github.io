@@ -1,4 +1,4 @@
-# mikedcode on GitHub :smiling_imp:
+# mikedcode on GitHub :)
 
 [![Twitter](https://img.shields.io/badge/twitter-%40mikedcode-1da1f2.svg)](https://twitter.com/mikedcode)
 [![Instagram](https://img.shields.io/badge/instagram-%40mikedcode-c13584.svg)](https://www.instagram.com/mikedcode/)
@@ -15,3 +15,9 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
 > More info coming soon...
+
+### Spoofer / Phone Prankster
+> **"Spoofer / Phone Prankster"** was made for making prank phone calls :smiling_imp:..
+> is was also present in the making of **Studio 3** and they worked in tandem.
+>
+> **Spoofer** is a private IOS App for making prank calls.. Its still in use today :laughing:..
