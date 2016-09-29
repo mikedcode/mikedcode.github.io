@@ -15,8 +15,8 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 
 [private-status]: https://img.shields.io/badge/status-private-f44336.svg "Private Project"
 [public-status]: https://img.shields.io/badge/status-public-8BC34A.svg "Public Project"
-[built-macios]: https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
-[built-ubuntu]: https://img.shields.io/badge/built%20for-Ubuntu-29B6F6.svg "Built For: Ubuntu"
+[built-macios]: https://img.shields.io/badge/platform-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
+[built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
