@@ -6,11 +6,11 @@
 [![Pinterest](https://img.shields.io/badge/pinterest-%40mikedcode-bd081c.svg)](https://www.pinterest.com/mikedcode)
 
 # Michael Dougherty
-My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
-
-**My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
-
-**Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js, JavaScript.._
+> My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
+>
+> **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
+>
+> **Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js, JavaScript.._
 
 # My Projects
 ###### Just a few of the projects I've worked on over the years..
