@@ -18,12 +18,12 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [built-macios]: https://img.shields.io/badge/platform-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ios]: https://img.shields.io/badge/platform-IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
-[language-shell]: https://img.shields.io/badge/language-shell-607D8B.svg "Programed with Shell"
-[language-objectivec]: https://img.shields.io/badge/language-objective--c-607D8B.svg "Programed with Objective-C"
-[language-objectivec-swift]: https://img.shields.io/badge/language-objective--c%20%7C%20swift-607D8B.svg "Programed with Objective-C / Swift"
-[language-objectivec-swift-php]: https://img.shields.io/badge/language-objective--c%20%7C%20swift%20%7C%20PHP-607D8B.svg "Programed with Objective-C / Swift / PHP"
-[language-c++-objectivec-swift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20swift-607D8B.svg "Programed with C++ / Objective-C / Swift"
-[language-swift-nodejs]: https://img.shields.io/badge/language-swift%20%7C%20node.js-607D8B.svg "Programed with Swift / Node.js"
+[language-shell]: https://img.shields.io/badge/language-shell-9C27B0.svg?style=flat "Programed with Shell"
+[language-objectivec]: https://img.shields.io/badge/language-objective--c-9C27B0.svg?style=flat "Programed with Objective-C"
+[language-objectivec-swift]: https://img.shields.io/badge/language-objective--c%20%7C%20swift-9C27B0.svg?style=flat "Programed with Objective-C / Swift"
+[language-objectivec-swift-php]: https://img.shields.io/badge/language-objective--c%20%7C%20swift%20%7C%20PHP-9C27B0.svg?style=flat "Programed with Objective-C / Swift / PHP"
+[language-c++-objectivec-swift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20swift-9C27B0.svg?style=flat "Programed with C++ / Objective-C / Swift"
+[language-swift-nodejs]: https://img.shields.io/badge/language-swift%20%7C%20node.js-9C27B0.svg?style=flat "Programed with Swift / Node.js"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
