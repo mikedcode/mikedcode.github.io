@@ -34,13 +34,13 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 > is was also present in the making of **Studio 3** and they worked in tandem
 > to make prank calls for the show.
 >
-> **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
->
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
 
 ### Spoofer
-> **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
+> **Spoofer** is a private iPhone app for making prank calls..
+>
+> I still use it to this day :laughing:
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-ios]
