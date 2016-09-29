@@ -16,6 +16,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 [private-status]: https://img.shields.io/badge/status-private-f44336.svg "Private Project"
 [public-status]: https://img.shields.io/badge/status-public-8BC34A.svg "Public Project"
 [built-macios]: https://img.shields.io/badge/platform-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
+[built-ios]: https://img.shields.io/badge/platform-IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
 
 ### Studio 3
@@ -28,7 +29,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
 
-### Spoofer / Phone Prankster
+### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
 > is was also present in the making of **Studio 3** and they worked in tandem
 > to make prank calls for the show.
@@ -37,6 +38,12 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
+
+### Spoofer
+> **Spoofer** is a private iPhone app for making prank calls.. Its still in use today :laughing:
+>
+> ![alt Status][private-status]
+> ![alt Built-For][built-ios]
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
