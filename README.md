@@ -20,9 +20,9 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
 [language-shell]: https://img.shields.io/badge/language-shell-FF5722.svg "Programed with Shell"
 [language-objectivec]: https://img.shields.io/badge/language-objective--c-FF5722.svg "Programed with Objective-C"
-[language-objectivecswift]: https://img.shields.io/badge/language-objective--c%20%7C%20Swift-FF5722.svg "Programed with Objective-C / Swift"
-[language-objectivec-swift-php]: https://img.shields.io/badge/language-objective--c%20%7C%20Swift%20%7C%20PHP-FF5722.svg "Programed with Objective-C / Swift / PHP"
-[language-c++objectivecswift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20Swift-FF5722.svg "Programed with C++ / Objective-C / Swift"
+[language-objectivec-swift]: https://img.shields.io/badge/language-objective--c%20%7C%20swift-FF5722.svg "Programed with Objective-C / Swift"
+[language-objectivec-swift-php]: https://img.shields.io/badge/language-objective--c%20%7C%20swift%20%7C%20PHP-FF5722.svg "Programed with Objective-C / Swift / PHP"
+[language-c++-objectivec-swift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20swift-FF5722.svg "Programed with C++ / Objective-C / Swift"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
@@ -35,7 +35,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
-> ![alt Programed][language-c++objectivecswift]
+> ![alt Programed][language-c++-objectivec-swift]
 
 ### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
