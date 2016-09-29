@@ -21,6 +21,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [language-shell]: https://img.shields.io/badge/language-shell-FF5722.svg "Programed with Objective-C"
 [language-objectivec]: https://img.shields.io/badge/language-objective--c-FF5722.svg "Programed with Objective-C"
 [language-objectivecswift]: https://img.shields.io/badge/language-objective--c%20%7C%20Swift-FF5722.svg "Programed with Objective-C / Swift"
+[language-c++objectivecswift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20Swift-FF5722.svg "Programed with Objective-C / Swift"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
@@ -33,7 +34,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
-> ![alt Programed][language-objectivecswift]
+> ![alt Programed][language-c++objectivecswift]
 
 ### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
