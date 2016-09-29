@@ -15,7 +15,7 @@ My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS 
 
 [private-status]: https://img.shields.io/badge/status-private-red.svg "Private Project"
 [public-status]: https://img.shields.io/badge/status-public-brightgreen.svg "Public Project"
-[built-macios]: https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-fc3158.svg "Built For: macOS | IOS"
+[built-macios]: https://img.shields.io/badge/built%20for-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ubuntu]: https://img.shields.io/badge/built%20for-Ubuntu-dd4814.svg "Built For: Ubuntu"
 
 ### Studio 3
