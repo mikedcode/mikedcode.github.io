@@ -26,7 +26,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
-> Lots of laughs were made from this app :wink:
+> Lots of laughs were made from this project :wink:
 >
 > More info coming soon...
 >
@@ -36,7 +36,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 ### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
 > is was also present in the making of **Studio 3** and they worked in tandem
-> to make prank calls for the show.
+> to make prank phone calls for the show.
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
