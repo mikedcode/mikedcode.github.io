@@ -6,7 +6,7 @@
 [![Pinterest](https://img.shields.io/badge/pinterest-%40mikedcode-bd081c.svg)](https://www.pinterest.com/mikedcode)
 
 # Michael Dougherty
-> My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
+> My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, watchOS, and Windows :stuck_out_tongue_winking_eye:
 >
 > **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
 >
