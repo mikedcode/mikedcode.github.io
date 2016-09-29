@@ -20,7 +20,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
 
 ### Studio 3
-> **Studio 3** was built for <a href="http://www.jaredmcmullin.com" target="_BLANK">**Jared McMullin**</a> of the YouTube show <a href="https://www.youtube.com/user/FridayNightCranks" target="_BLANK">**Friday Night</a>..
+> **Studio 3** was built for <a href="http://www.jaredmcmullin.com" target="_blank">**Jared McMullin**</a> of the YouTube show <a href="https://www.youtube.com/user/FridayNightCranks" target="_blank">**Friday Night</a>..
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
