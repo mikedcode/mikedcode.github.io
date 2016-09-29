@@ -5,12 +5,14 @@
 [![Pinterest](https://img.shields.io/badge/mike's%20pinterest-%40mikedcode-bd081c.svg)](https://www.pinterest.com/mikedcode)
 [![Website](https://img.shields.io/badge/develops%20for-Linux%20%7C%20macOS%20%7C%20IOS%20%7C%20Windows-29B6F6.svg)](http://mikedcode.com)
 
-# Michael Dougherty (mikedcode)
-My name is **Michael Dougherty (Mike)**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
+# Michael Dougherty
+My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, watchOS), and Windows :stuck_out_tongue_winking_eye:
 
 **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
 
-# Projects I've Worked On..
+**Programing Languages:** _Swift, C, C++, Objective-C, JavaScript, PHP, Python, Ruby, Shell.._
+
+# My Projects
 ###### Just a few of the projects I've worked on over the years..
 
 [private-status]: https://img.shields.io/badge/status-private-f44336.svg "Private Project"
