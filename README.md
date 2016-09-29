@@ -10,7 +10,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 
 **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
 
-**Programing Languages:** _Swift, C, C++, Objective-C, JavaScript, PHP, Python, Ruby, Shell.._
+**Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js, JavaScript..
 
 # My Projects
 ###### Just a few of the projects I've worked on over the years..
