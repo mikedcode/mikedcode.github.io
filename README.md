@@ -18,6 +18,9 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [built-macios]: https://img.shields.io/badge/platform-macOS%20%7C%20IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ios]: https://img.shields.io/badge/platform-IOS-29B6F6.svg "Built For: macOS | IOS"
 [built-ubuntu]: https://img.shields.io/badge/platform-Ubuntu-29B6F6.svg "Built For: Ubuntu"
+[language-shell]: https://img.shields.io/badge/language-shell-FF5722.svg "Programed with Objective-C"
+[language-objectivec]: https://img.shields.io/badge/language-objective--c-FF5722.svg "Programed with Objective-C"
+[language-objectivecswift]: https://img.shields.io/badge/language-objective--c%20%7C%20Swift-FF5722.svg "Programed with Objective-C / Swift"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
@@ -30,6 +33,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
+> ![alt Programed][language-objectivecswift]
 
 ### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
@@ -38,12 +42,14 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-macios]
+> ![alt Programed][language-objectivecswift]
 
 ### Spoofer
 > **Spoofer** is a private iPhone app for making prank phone calls :laughing:
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-ios]
+> ![alt Programed][language-objectivecswift]
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
@@ -52,3 +58,4 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][public-status]
 > ![alt Built-For][built-ubuntu]
+> ![alt Programed][language-shell]
