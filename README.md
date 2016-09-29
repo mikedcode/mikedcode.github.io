@@ -10,7 +10,7 @@
 >
 > **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_
 >
-> **Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js / JavaScript, PHP.._
+> **Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js / JavaScript, PHP_
 
 # My Projects
 ###### Just a few of the projects I've worked on over the years..
