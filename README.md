@@ -26,6 +26,8 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
 >
+> Lots of laughs were made from this app :wink:
+>
 > More info coming soon...
 >
 > ![alt Status][private-status]
@@ -40,9 +42,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS (tvOS, 
 > ![alt Built-For][built-macios]
 
 ### Spoofer
-> **Spoofer** is a private iPhone app for making prank calls..
->
-> I still use it to this day :laughing:
+> **Spoofer** is a private iPhone app for making prank phone calls :laughing:
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-ios]
