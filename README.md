@@ -23,6 +23,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [language-objectivec-swift]: https://img.shields.io/badge/language-objective--c%20%7C%20swift-607D8B.svg "Programed with Objective-C / Swift"
 [language-objectivec-swift-php]: https://img.shields.io/badge/language-objective--c%20%7C%20swift%20%7C%20PHP-607D8B.svg "Programed with Objective-C / Swift / PHP"
 [language-c++-objectivec-swift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20swift-607D8B.svg "Programed with C++ / Objective-C / Swift"
+[language-swift-nodejs]: https://img.shields.io/badge/language-swift%20%7C%20node.js-607D8B.svg "Programed with Swift / Node.js"
 
 ### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
@@ -51,7 +52,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-ios]
-> ![alt Programed][language-objectivec-swift-php]
+> ![alt Programed][language-swift-nodejs]
 
 ### Ubuntu Desktop Title Changer
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
