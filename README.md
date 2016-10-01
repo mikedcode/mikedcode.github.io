@@ -54,7 +54,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 > ![alt Built-For][built-ios]
 > ![alt Programed][language-swift-nodejs]
 
-## Ubuntu Desktop Title Changer
+## [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
