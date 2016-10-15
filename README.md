@@ -5,13 +5,13 @@
 [![Instagram](https://img.shields.io/badge/instagram-%40mikedcode-c13584.svg)](https://www.instagram.com/mikedcode)
 [![Pinterest](https://img.shields.io/badge/pinterest-%40mikedcode-bd081c.svg)](https://www.pinterest.com/mikedcode)
 
-# Michael Dougherty
+## Michael Dougherty
 My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, watchOS, and Windows.  
 **My Operating Systems:** _Ubuntu Xenial, macOS Sierra, Windows 10_  
 **Favorite Programing Languages:** _Swift, C++, Objective-C, Node.js / JavaScript, PHP_
 
-# My Projects
-###### Just a few of the projects I've worked on over the years..
+## My Projects
+### Just a few of the projects I've worked on over the years..
 
 [private-status]: https://img.shields.io/badge/status-private-f44336.svg "Private Project"
 [public-status]: https://img.shields.io/badge/status-public-8BC34A.svg "Public Project"
@@ -25,7 +25,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 [language-c++-objectivec-swift]: https://img.shields.io/badge/language-c++%20%7C%20objective--c%20%7C%20swift-78909C.svg "Programed with C++ / Objective-C / Swift"
 [language-swift-nodejs]: https://img.shields.io/badge/language-swift%20%7C%20node.js-78909C.svg "Programed with Swift / Node.js"
 
-## Studio 3
+### Studio 3
 > **Studio 3** was built for [**Jared McMullin**](http://www.jaredmcmullin.com/) of the YouTube show [**Friday Night Cranks**](https://www.youtube.com/user/FridayNightCranks)..
 > it was built to aid in making prank calls, spoofing caller id, controlling studio lights,
 > and triggering a confetti cannon based on Twitter when a specific phrase (changed weekly) was tweeted..
@@ -38,7 +38,7 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 > ![alt Built-For][built-macios]
 > ![alt Programed][language-c++-objectivec-swift]
 
-## Phone Prankster
+### Phone Prankster
 > **Phone Prankster** was made for making prank phone calls :smiling_imp:..
 > is was also present in the making of **Studio 3** and they worked in tandem
 > to make prank phone calls for the show.
@@ -47,14 +47,14 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 > ![alt Built-For][built-macios]
 > ![alt Programed][language-objectivec-swift-php]
 
-## Spoofer
+### Spoofer
 > **Spoofer** is a private iPhone app for making prank phone calls :laughing:
 >
 > ![alt Status][private-status]
 > ![alt Built-For][built-ios]
 > ![alt Programed][language-swift-nodejs]
 
-## [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)
+### [Ubuntu Desktop Title Changer](https://github.com/mikedcode/Ubuntu-Desktop-Title-Changer)
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
 >
 > **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
