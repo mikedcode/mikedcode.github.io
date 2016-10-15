@@ -57,8 +57,6 @@ My name is **Michael Dougherty**, I write software for Linux, macOS, IOS, tvOS, 
 ### [Ubuntu Desktop Title Changer](https://github.com/mikedcode/Ubuntu-Desktop-Title-Changer)
 > **Ubuntu Desktop Title Changer** changes the Ubuntu desktop menu title to whatever you'd like :smiley:
 >
-> **Project Website: [Ubuntu Desktop Title Changer](http://p.mikedcode.com/udtc)**
->
 > ![alt Status][public-status]
 > ![alt Built-For][built-ubuntu]
 > ![alt Programed][language-shell]
